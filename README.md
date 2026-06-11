@@ -100,6 +100,14 @@ API available at: http://localhost:8000
 
 Interactive docs: http://localhost:8000 (Swagger UI)
 
+### 3b. Run the Streamlit UI (optional)
+
+```bash
+streamlit run streamlit_app.py
+```
+
+UI available at: http://localhost:8501
+
 ### 4. Run with Docker (optional)
 
 ```bash
