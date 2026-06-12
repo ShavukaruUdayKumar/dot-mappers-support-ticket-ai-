@@ -8,6 +8,12 @@ uvicorn.log
 # Test/dev scripts
 test_e2e.py
 
+# PPT binary (open locally)
+*.pptx
+
+# PPT generator script
+create_ppt.py
+
 # Assessment document (not needed in repo)
 AI_Engineer_Assessment_Sprint.docx
 
